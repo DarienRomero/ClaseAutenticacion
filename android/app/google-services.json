@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088964224420",
+    "project_id": "pruebaclaseautenticacion",
+    "storage_bucket": "pruebaclaseautenticacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088964224420:android:3573c9bfe5c3f296ad0d31",
+        "android_client_info": {
+          "package_name": "com.prueba.flutter_prueba_clase_autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088964224420-uumpkbmntoru53s0ssi41b0ge9m5mruh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prueba.flutter_prueba_clase_autenticacion",
+            "certificate_hash": "08e7a28b81feb90fd0bf0c9da9998f778817025f"
+          }
+        },
+        {
+          "client_id": "1088964224420-qig778l1tr4tavi71qmupp601fmc5oj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqqSX4jElQwJ9sqJY_eKe6ZVXM0khans"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088964224420-qig778l1tr4tavi71qmupp601fmc5oj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
